@@ -1,0 +1,132 @@
+.a{background-color: orange;
+	text-color:lightblue;
+	height: 100px;}
+	hr{height: 5px;
+	 padding: 20PX;
+	}
+	a{text-decoration: none; 
+
+		color: blue;}
+		.btn1{float: right;
+			background-color: maroon;
+			text-color:lightblue;
+			float: right;
+			border: 2px solid white;
+			border-radius: 10px;
+			font-size: 20px;
+			margin-right: 30px;
+		}
+		.btn2{float: right;
+			background-color: maroon;
+			text-color:lightblue;
+			float: right;
+			border: 2px solid white;
+			border-radius: 10px;
+			font-size: 20px;
+			margin-left: 30px;
+			margin-right: 30px;
+			color: orange;}
+			img{height: 500px;
+				width: 40%;
+				margin-left: 20%;
+				margin-right: 40%;}
+				.p1{color: blue;
+					background-color: orange;
+					width: 30%;
+					border: 2px solid black;
+					border-radius: 15px;
+					float: right;}
+					.p2{color: blue;
+						background-color: orange;
+						width: 30%;
+						border: 2px solid black;
+						border-radius: 15px;
+						float: right;
+						margin-left: 20px;
+						margin-right: 20px;}
+						.p3{color: blue;
+							background-color: orange;
+							width: 30%;
+							border: 2px solid black;
+							border-radius: 15px;
+							float: right;}
+							.footer{background-color: black;
+								color: white;
+								height: 50px;
+								text-align: center;
+								clear: both;
+								border: 2px solid blue;
+								border-radius: 15px;}
+								
+								
+
+	.a{background-color: orange;
+		text-color:white;
+		height: 100px;
+	}
+		hr{height: 2px;
+			
+			
+		}
+		
+
+			
+			.btm3{ float: right;
+				background-color: green;
+				text-color:white;
+				float: right;
+				border: 2px solid white;
+				border-radius: 10px;
+				font-size: 20px;
+				margin-right: 30px;}
+			
+			.btm4{float: right;
+				background-color: green;
+				text-color :white;
+				float: right;
+				border: 2px solid white;
+				border-radius: 10px;
+				font-size: 20px;
+				margin-left: 30px;
+				margin-right: 30px;
+				color: orange;}
+			.btm5{float: right;
+				background-color: green;
+				text-color:white;
+				float: right;
+				border: 2px solid white;
+				border-radius: 10px;
+				font-size: 20px;
+				margin-left: 30px;
+				margin-right: 30px;
+				color: orange;}
+				.boxes{width: 100%;
+					display: block;}
+		.box{width: 20%;
+					display: inline ;
+					float: left;
+					margin-right: 50px;
+					
+					 }
+		.box img{width: 98%;
+				height: 500px;
+				position:relative;
+				right:20%;
+					}
+		p{width: 80%;
+						float: left;
+						display: inline;
+					}
+	.x , .y , .z , .o {border: 3px solid black;
+	            border-radius: 20px;
+	            padding: 20px;
+	            width: 30%;
+	            color: blue;
+	            margin-right: 50%;
+	            margin-left: 20%; }
+	h1{color: orange;}
+.a{
+	background-repeat: no-repeat;
+	background-image: 100%;
+	}
+	
